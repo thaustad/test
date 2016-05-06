@@ -1,4 +1,0 @@
-package chroma
-
-func init() {
-}
